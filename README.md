@@ -1,1 +1,2 @@
-# to-do-app
+# JavaScript-Projects
+Projects Made using HTML CSS and JavaScript
